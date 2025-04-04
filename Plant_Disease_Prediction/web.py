@@ -25,7 +25,7 @@ if (app_mode == "Home"):
 ## 🪴Plant Disease Recognition System 🔍  
 
 Welcome to the **Plant Disease Recognition System**—your AI-powered assistant for **early disease detection** in plants! 🚀  
-Simply upload an image of a plant leaf, and our system will analyze it to identify potential diseases, helping you protect your crops and ensure a **healthier harvest**.  
+Our mission is to help in identifying plant diseases efficiently. Upload an image of a plant, and our system will analyze it to detect any signs of diseases. Together, let's protect our crops and ensure a healthier harvest! 
 
 ---
 
